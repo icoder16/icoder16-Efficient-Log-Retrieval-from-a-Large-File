@@ -1,0 +1,28 @@
+2024-12-01 14:28:06 DEBUG Memory usage high
+2024-12-01 07:21:32 ERROR File not found
+2024-12-01 14:46:30 DEBUG User logged in
+2024-12-01 03:36:49 WARN Disk space running low
+2024-12-01 11:48:04 DEBUG User logged out
+2024-12-01 22:59:48 DEBUG Server restarted successfully
+2024-12-01 00:02:37 ERROR Unauthorized access attempt
+2024-12-01 09:37:52 INFO File not found
+2024-12-01 00:35:29 WARN User logged in
+2024-12-01 07:17:59 WARN Disk space running low
+2024-12-01 19:11:31 INFO File not found
+2024-12-01 10:10:45 WARN Memory usage high
+2024-12-01 05:10:12 DEBUG User logged in
+2024-12-01 05:30:33 ERROR Memory usage high
+2024-12-01 19:21:20 INFO Database query executed
+2024-12-01 15:41:05 INFO Disk space running low
+2024-12-01 14:20:00 INFO File not found
+2024-12-01 13:52:18 WARN User logged out
+2024-12-01 13:51:34 INFO Failed to connect to the database
+2024-12-01 15:44:37 INFO User logged out
+2024-12-01 00:47:05 DEBUG Database query executed
+2024-12-01 16:45:10 DEBUG Database query executed
+2024-12-01 11:25:54 INFO User logged out
+2024-12-01 11:06:58 WARN Memory usage high
+2024-12-01 01:32:28 ERROR Server restarted successfully
+2024-12-01 02:00:46 ERROR Memory usage high
+2024-12-01 00:20:59 WARN Server restarted successfully
+2024-12-01 09:22:00 ERROR Database query executed
